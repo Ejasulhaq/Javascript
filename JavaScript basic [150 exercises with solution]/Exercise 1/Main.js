@@ -1,2 +1,10 @@
 let date = new Date();
 document.getElementById(`Today's date is ${date}`);
+let date2 = new Date();
+document.getElementById(`Today's date is ${date}`);
+let date3 = new Date();
+document.getElementById(`Today's date is ${date}`);
+let date4 = new Date();
+document.getElementById(`Today's date is ${date}`);
+let date5 = new Date();
+document.getElementById(`Today's date is ${date}`);
