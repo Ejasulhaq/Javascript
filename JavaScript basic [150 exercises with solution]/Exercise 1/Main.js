@@ -1,2 +1,2 @@
-let hello = "hi this is ejas"
-console.log(hello);
+let date = new Date();
+document.getElementById(`Today's date is ${date}`);
